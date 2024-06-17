@@ -1,0 +1,29 @@
+{
+    "@odata.context": "https://nwstest.nayotech.com/main/ifsapplications/projection/v1/SuppliersHandling.svc/$metadata#SupplierInfoGeneralSet",
+    "value": [
+        {
+            "AssociationNo": null,
+            "B2bSupplier": false,
+            "Cf_C_Objversion": "20180906145511",
+            "CorporateForm": null,
+            "Country": "US",
+            "CreationDate": "2003-04-27",
+            "DefaultDomain": true,
+            "DefaultLanguage": "en",
+            "IdentifierRefValidation": "None",
+            "IdentifierReference": null,
+            "Name": "INSITE SYSTEMS, INC.",
+            "Objgrants": null,
+            "OneTime": false,
+            "Party": "701",
+            "PartyType": "Supplier",
+            "PictureId": null,
+            "SupplierCategory": "Supplier",
+            "SupplierId": "50378",
+            "SuppliersOwnId": null,
+            "ValidDataProcessingPurpose": false,
+            "keyref": "SUPPLIER_ID=50378^",
+            "luname": "SupplierInfoGeneral"
+        }
+    ]
+}

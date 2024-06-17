@@ -1,0 +1,29 @@
+{
+    "@odata.context": "https://nwstest.nayotech.com/main/ifsapplications/projection/v1/SitesHandling.svc/$metadata#SiteSet",
+    "value": [
+        {
+            "Branch": null,
+            "Cf_C_Objversion": "20160318145736",
+            "Company": "10",
+            "Contract": "123",
+            "CountryCode": null,
+            "CustomerOrderReportsConditionCodeDisplay": false,
+            "DataCaptureMenuId": null,
+            "DefaultSOReceiptinBackground": false,
+            "DeliveryAddress": "123",
+            "Description": "WC Indianapolis, IN",
+            "DistCalendarId": "*",
+            "DocumentAddress": "5",
+            "InternalCustomer": "12295",
+            "InternalSupplier": "54873",
+            "LastPeriodicWADate": null,
+            "ManufCalendarId": "*",
+            "Objgrants": null,
+            "Offset": 1,
+            "PurchaseOrderReportsConditionCodeDisplay": false,
+            "RegionCode": null,
+            "keyref": "CONTRACT=123^",
+            "luname": "Site"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "@odata.context": "https://nwstest.nayotech.com/main/ifsapplications/projection/v1/InventoryValuePerPeriodAnalysis.svc/$metadata#Reference_InventoryValuePart",
+    "value": [
+        {
+            "AbcClass": "C",
+            "AccountingGroup": "1450",
+            "AssetClass": "R",
+            "Contract": "101",
+            "Objgrants": null,
+            "PartNo": "131205400",
+            "PartProductCode": "OBS",
+            "PartProductFamily": null,
+            "PlannerBuyer": "PL102",
+            "PrimeCommodity": null,
+            "QtyAtCustomer": 0,
+            "QtyInTransit": 0,
+            "QtyWaivDevRej": 0,
+            "Quantity": 771660,
+            "SecondCommodity": "111",
+            "StatPeriodNo": 5,
+            "StatYearNo": 2003,
+            "TotalValue": 4977.21,
+            "TypeCode": "Purchased",
+            "UnitCost": 0.006450003887722572,
+            "UnitMeas": "PCS",
+            "keyref": "CONTRACT=101^PART_NO=131205400^STAT_PERIOD_NO=5^STAT_YEAR_NO=2003^",
+            "luname": "InventoryValuePart"
+        }
+    ]
+}
